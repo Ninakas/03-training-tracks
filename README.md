@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Nina Kassahun 
 
-Track Name: 
+Track Name: DevOPs
 
-Track Description: 
+Track Description: Operating System 
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
